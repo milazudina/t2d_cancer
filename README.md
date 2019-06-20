@@ -1,7 +1,7 @@
 # Dissecting shared predisposition to cancer and diabetes using multi-dimensional analytical approach <br />
 
 This is a repository containing the code I used for my MEng individual project. <br />
-I have tried to put most of the documents into folders described below, but this isn't possible for pdf files. <br />
+I have sorted most of the documents into folders described below, but this isn't possible for pdf files. <br />
 
 **A full resolution version of the heatmap:** <br />
 at_euclcol_euclrow_not1d_truncated_uncorr_v5.pdf <br />
