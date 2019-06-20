@@ -28,6 +28,7 @@ insert_originalGWAS_into_SSimp.R <br />
 
 **The tables of SNPs x Phenotypes including metabolites:** <br />
 v3_wtrepeats_wtmetabolites_wtannotations.txt <br />
+z_table_5-01-37_removed.txt <br />
 
 **Lists of loci:** <br />
 t2d_loci_mahajan.xlsx <br />
