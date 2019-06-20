@@ -18,29 +18,29 @@ LD_data.txt <br />
 all_phenotype_table_v3.txt - the table used as an auxilary file for producing a table of z-scores <br />
 metabolites_phenotype_table.xlsx - the table used as an auxilary file for producing a table of z-scores for metabolites <br />
 
-**Code for preprocessing and postprocessing the files for imputation:**
-ssimp-processing-workflow.pdf - the general workflow for imputation
-generalised_script.R - the final generalised version of preprocessing script
-postprocess_ssimp.sh
-reinsert_snps.R
-scan_post_imp.R
-insert_originalGWAS_into_SSimp.R
+**Code for preprocessing and postprocessing the files for imputation:** <br />
+ssimp-processing-workflow.pdf - the general workflow for imputation <br />
+generalised_script.R - the final generalised version of preprocessing script <br />
+postprocess_ssimp.sh <br />
+reinsert_snps.R <br />
+scan_post_imp.R <br />
+insert_originalGWAS_into_SSimp.R <br />
 
-**The tables of SNPs x Phenotypes including metabolites:**
-v3_wtrepeats_wtmetabolites_wtannotations.txt
+**The tables of SNPs x Phenotypes including metabolites:** <br />
+v3_wtrepeats_wtmetabolites_wtannotations.txt <br />
 
-**Lists of loci:**
-t2d_loci_mahajan.xlsx
-Cardiometabolic_loci.xlsx
-GWAS_catalog_Cancer_summary_14.02.19.xlsx - the compilation of outputs from GWAS catalog
-cancer_loci.xlsx - a later curated version of cancer loci
-combined_loci + metabolites loci.xlsx
+**Lists of loci:** <br />
+t2d_loci_mahajan.xlsx <br />
+Cardiometabolic_loci.xlsx <br />
+GWAS_catalog_Cancer_summary_14.02.19.xlsx - the compilation of outputs from GWAS catalog <br />
+cancer_loci.xlsx - a later curated version of cancer loci <br />
+combined_loci + metabolites loci.xlsx <br />
 
-**Supporting plots:**
-Rplot.pdf - phenotype correlation
-Rplot01.pdf - contributors to principal components
-k3 with labels.pdf - k-means clustering, number of clusters = 3, with labels
-k3.pdf - k-means clustering, number of clusters = 3, without labels
+**Supporting plots:** <br />
+Rplot.pdf - phenotype correlation <br />
+Rplot01.pdf - contributors to principal components <br />
+k3 with labels.pdf - k-means clustering, number of clusters = 3, with labels <br />
+k3.pdf - k-means clustering, number of clusters = 3, without labels <br />
 
 
 
